@@ -8,19 +8,19 @@
 
 - 训练 1 epochs 之后的采样
 
-<img src="./generate/inference_result_1.png" style="zoom:50%;" />
+<img src="./generate/inference_result_1.png" style="zoom:20%;" />
 
 - 训练 25 epochs 之后的采样
 
-<img src="./generate/inference_result_25.png" style="zoom:50%;" />
+<img src="./generate/inference_result_25.png" style="zoom:20%;" />
 
 - 训练 50 epochs 之后的采样
 
-<img src="./generate/inference_result_50.png" style="zoom:50%;" />
+<img src="./generate/inference_result_50.png" style="zoom:20%;" />
 
 - 训练 100 epochs 之后的采样
 
-<img src="./generate/inference_result_100.png" style="zoom:50%;" />
+<img src="./generate/inference_result_100.png" style="zoom:20%;" />
 
 
 单张图片的去噪过程展示
