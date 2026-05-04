@@ -6,21 +6,21 @@
 
 在MNIST数据集上训练了模型，能够生成类似数字的样本。然而，使用DDPM生成的样本偶尔还是会出现数字缝合的情况。
 
-- 训练 7 epochs 之后的采样
+- 训练 1 epochs 之后的采样
 
-![](./generate/inference_result_7.png)
+<img src="./generate/inference_result_1.png" style="zoom:50%;" />
 
 - 训练 25 epochs 之后的采样
 
-![](./generate/inference_result_25.png)
+<img src="./generate/inference_result_25.png" style="zoom:50%;" />
 
 - 训练 50 epochs 之后的采样
 
-![](./generate/inference_result_50.png)
+<img src="./generate/inference_result_50.png" style="zoom:50%;" />
 
 - 训练 100 epochs 之后的采样
 
-![](./generate/inference_result_100.png)
+<img src="./generate/inference_result_100.png" style="zoom:50%;" />
 
 
 单张图片的去噪过程展示
